@@ -1,4 +1,7 @@
 1. I see a basic webpage with a bunny in a black box. When I drag in another tab the bunny moves in both tabs
 2. Typescript implements strong typing on top of Javascript. Typescript is an object orientated lanuage while Javascript is a scripted language
 3. It bundles together packages into one so improve performance. 
-4. 
+4. 0 - Connecting - socket has been created, not connected yet
+    1 - Open - The connection is open and ready to communicate
+    2 - Closing - The connection is in the process of Closing
+    3 - closed - the connection is closed or couldn't be opened
