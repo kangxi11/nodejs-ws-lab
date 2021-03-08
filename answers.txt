@@ -1,0 +1,4 @@
+1. I see a basic webpage with a bunny in a black box. When I drag in another tab the bunny moves in both tabs
+2. Typescript implements strong typing on top of Javascript. Typescript is an object orientated lanuage while Javascript is a scripted language
+3. It bundles together packages into one so improve performance. 
+4. 
